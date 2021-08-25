@@ -9,5 +9,6 @@ Videos
 Research URLs
 - [Avalanche](https://www.avax.network/), Protocol
 - [Ultrasound Money](https://ultrasound.money/), Ethereum Analytic
+- [Performing Bitcoin <> Monero Atomic Swaps](https://sethforprivacy.com/guides/bitcoin-monero-atomic-swaps/)
 - 
 
