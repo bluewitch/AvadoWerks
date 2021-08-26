@@ -7,6 +7,7 @@ Videos
 - []()
 
 Research URLs
+- [Ceres Token](https://cerestoken.io/), On Polkadot Protocol
 - [Avalanche](https://www.avax.network/), Protocol
 - [Ultrasound Money](https://ultrasound.money/), Ethereum Analytic
 - [Performing Bitcoin <> Monero Atomic Swaps](https://sethforprivacy.com/guides/bitcoin-monero-atomic-swaps/)
