@@ -3,8 +3,20 @@
 All notes on running a Avado Node i7 device.  Setup and links to videos
 
 
-Videos
-- []()
+Crypto News Video Channels
+- [Coin Bureau](https://www.coinbureau.com/)
+- [Benjamin Cowen]()
+- [Bob Loukas]()
+- [Digital Asset News]()
+- [Finematics]()
+- [Heresy Financial]()
+- [Legal Breifs]()
+- [Thinking Crypto]()
+- [Andreas Antonopoulos]()
+- [The Defiant]()
+- 
+
+
 
 Research URLs
 - [Ceres Token](https://cerestoken.io/), On Polkadot Protocol
