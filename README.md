@@ -5,9 +5,9 @@ All notes on running a Avado Node i7 device.  Setup and links to videos
 
 Crypto News Video Channels
 - [Coin Bureau](https://www.coinbureau.com/)
-- [Benjamin Cowen]()
-- [Bob Loukas]()
-- [Digital Asset News]()
+- [Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg/featured)
+- [Bob Loukas](https://www.youtube.com/channel/UC0zGwzu0zzCImC1BwPuWyXQ/featured)
+- [Digital Asset News](https://www.youtube.com/c/DigitalAssetNewsDAN/featured)
 - [Finematics]()
 - [Heresy Financial]()
 - [Legal Breifs]()
