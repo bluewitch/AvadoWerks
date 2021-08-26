@@ -8,12 +8,12 @@ Crypto News Video Channels
 - [Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg/featured)
 - [Bob Loukas](https://www.youtube.com/channel/UC0zGwzu0zzCImC1BwPuWyXQ/featured)
 - [Digital Asset News](https://www.youtube.com/c/DigitalAssetNewsDAN/featured)
-- [Finematics]()
-- [Heresy Financial]()
-- [Legal Breifs]()
-- [Thinking Crypto]()
-- [Andreas Antonopoulos]()
-- [The Defiant]()
+- [Finematics](https://www.youtube.com/c/Finematics/featured)
+- [Heresy Financial](https://www.youtube.com/c/HeresyFinancial/featured)
+- [Legal Breifs](https://www.youtube.com/c/LegalBriefs/featured)
+- [Thinking Crypto](https://www.youtube.com/c/AnthonyEdward/featured)
+- [Andreas Antonopoulos](https://www.youtube.com/c/aantonop/featured)
+- [The Defiant](https://www.youtube.com/c/TheDefiant/featured)
 - 
 
 
