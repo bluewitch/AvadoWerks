@@ -3,7 +3,7 @@
 All notes on running a Avado Node i7 device.  Setup and links to videos
 
 ## Setup Instructions for Node
-- [Will Pankiewicz, Master of Validators @ Parity](https://hackmd.io/@nlWRE-3fQzmUnPRDIXb2Ag/SJvW0uCYv#/1)
+- [Will Pankiewicz, Blockchain Devops](https://hackmd.io/@nlWRE-3fQzmUnPRDIXb2Ag/SJvW0uCYv#/1)
 
 
 Crypto News Video Channels
