@@ -17,7 +17,7 @@ Crypto News Video Channels
 - [Thinking Crypto](https://www.youtube.com/c/AnthonyEdward/featured)
 - [Andreas Antonopoulos](https://www.youtube.com/c/aantonop/featured)
 - [The Defiant](https://www.youtube.com/c/TheDefiant/featured)
-- 
+- END OF LINE
 
 
 
