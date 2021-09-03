@@ -1,8 +1,9 @@
 ## Avado Werks
 [Thing 0](https://ava.do/avado-i7)
-All notes on running a Avado Node i7 device.  Setup and links to videos
+All notes on running a Avado Node i7 device.  Setup and links to videos.  The Avado is the metal
+ and not nother's 
 
-## Setup Instructions for Node
+## Setup DevOps Instructions for managing the Node
 - [Will Pankiewicz, Blockchain Devops](https://hackmd.io/@nlWRE-3fQzmUnPRDIXb2Ag/SJvW0uCYv#/1)
 
 
@@ -17,16 +18,19 @@ Crypto News Video Channels
 - [Thinking Crypto](https://www.youtube.com/c/AnthonyEdward/featured)
 - [Andreas Antonopoulos](https://www.youtube.com/c/aantonop/featured)
 - [The Defiant](https://www.youtube.com/c/TheDefiant/featured)
-- END OF LINE
+
 
 
 ## Multi Virtual Machine (EVM + WASM)
 # -[Sota, Astar/Shiden](https://shiden.astar.network/)
+# -[Plasm Whitepaper](https://github.com/PlasmNetwork/plasmdocs/blob/master/wp/en.pdf)
+# -[Astar Network (Previously Plasm)](https://medium.com/astar-network)
+
 
 
 
 ## Possible Kusama/Polkadot Blockchains, Nodes, Validators, etc.
-- [Astra ]()
+
 - [Kintsugi]()
 
 Research URLs
@@ -36,3 +40,4 @@ Research URLs
 - [Performing Bitcoin <> Monero Atomic Swaps](https://sethforprivacy.com/guides/bitcoin-monero-atomic-swaps/)
 - [Ethereum Gas Charts](https://ethereumprice.org/gas/)
 
+## END OF LINE
