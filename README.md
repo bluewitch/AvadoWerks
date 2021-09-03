@@ -20,6 +20,14 @@ Crypto News Video Channels
 - END OF LINE
 
 
+## Multi Virtual Machine (EVM + WASM)
+# -[Sota, Astar/Shiden](https://shiden.astar.network/)
+
+
+
+## Possible Kusama/Polkadot Blockchains, Nodes, Validators, etc.
+- [Astra ]()
+- [Kintsugi]()
 
 Research URLs
 - [Ceres Token](https://cerestoken.io/), On Polkadot Protocol
