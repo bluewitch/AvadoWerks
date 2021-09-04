@@ -1,7 +1,7 @@
 ## Avado Werks
 [Thing 0](https://ava.do/avado-i7)
 All notes on running a Avado Node i7 device.  Setup and links to videos.  The Avado is the metal
- and not nother's 
+ and not an other could 3rd party, This is run on Starlink as the internet service provider (ISP). 
 
 ## Explain Crypto Staking Like I'm 5
 
