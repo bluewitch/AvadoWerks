@@ -7,7 +7,7 @@ Solidity compiles to **EVM** and Substrate compiles to **WASM**
 
 
 ## Multi Virtual Machine (EVM + WASM)
-# - [Sota, Astar/Shiden](https://shiden.astar.network/)
-# - [Plasm Whitepaper](https://github.com/PlasmNetwork/plasmdocs/blob/master/wp/en.pdf)
-# - [Astar Network (Previously Plasm)](https://medium.com/astar-network)
+- [Sota, Astar/Shiden](https://shiden.astar.network/)
+- [Plasm Whitepaper](https://github.com/PlasmNetwork/plasmdocs/blob/master/wp/en.pdf)
+- [Astar Network (Previously Plasm)](https://medium.com/astar-network)
 
