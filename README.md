@@ -20,15 +20,6 @@ Crypto News Video Channels
 - [The Defiant](https://www.youtube.com/c/TheDefiant/featured)
 
 
-
-## Multi Virtual Machine (EVM + WASM)
-# -[Sota, Astar/Shiden](https://shiden.astar.network/)
-# -[Plasm Whitepaper](https://github.com/PlasmNetwork/plasmdocs/blob/master/wp/en.pdf)
-# -[Astar Network (Previously Plasm)](https://medium.com/astar-network)
-
-
-
-
 ## Possible Kusama/Polkadot Blockchains, Nodes, Validators, etc.
 
 - [Kintsugi]()
