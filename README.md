@@ -3,6 +3,12 @@
 All notes on running a Avado Node i7 device.  Setup and links to videos.  The Avado is the metal
  and not nother's 
 
+## Explain Crypto Staking Like I'm 5
+
+Every coin you hold is like a lottery ticket, when you stake you are giving your tickets to a trusted person (stake pool) who can cash in your winning ticket. He holds others people's tickets as well and as a collective he shares the winnings equally.
+
+More technically speaking when he discovers a winning ticket he uses his computing power to advance the Blockchain i.e. confirms transactions and updates the current ledger and shares this with all the other trusted people who validate his work and this repeats.
+
 ## Setup DevOps Instructions for managing the Node
 - [Will Pankiewicz, Blockchain Devops](https://hackmd.io/@nlWRE-3fQzmUnPRDIXb2Ag/SJvW0uCYv#/1)
 
