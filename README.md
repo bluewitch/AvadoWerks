@@ -14,7 +14,7 @@ More technically speaking when he discovers a winning ticket he uses his computi
 - [Will Pankiewicz, Blockchain Devops](https://hackmd.io/@nlWRE-3fQzmUnPRDIXb2Ag/SJvW0uCYv#/1)
 
 
-Crypto News Video Channels
+## Crypto News Video Channels
 - [Coin Bureau](https://www.coinbureau.com/)
 - [Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg/featured)
 - [Bob Loukas](https://www.youtube.com/channel/UC0zGwzu0zzCImC1BwPuWyXQ/featured)
@@ -26,6 +26,17 @@ Crypto News Video Channels
 - [Andreas Antonopoulos](https://www.youtube.com/c/aantonop/featured)
 - [The Defiant](https://www.youtube.com/c/TheDefiant/featured)
 
+## Wallets for Crypto
+Most wallets have the core universal crypto mechinisms, but some
+are customized for mobile, exchange mechinisms, etc.
+- [Meta Mask](https://metamask.io/), All things being equal is a good starting point, is a hot wallet and funds are online
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
+
 
 ## Possible Kusama/Polkadot Blockchains, Nodes, Validators, etc.
 
@@ -33,7 +44,6 @@ Crypto News Video Channels
 
 Research URLs
 - [Ceres Token](https://cerestoken.io/), On Polkadot Protocol
-- [Avalanche](https://www.avax.network/), Protocol
 - [Ultrasound Money](https://ultrasound.money/), Ethereum Analytic
 - [Performing Bitcoin <> Monero Atomic Swaps](https://sethforprivacy.com/guides/bitcoin-monero-atomic-swaps/)
 - [Ethereum Gas Charts](https://ethereumprice.org/gas/)
