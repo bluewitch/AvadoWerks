@@ -8,7 +8,7 @@ All notes on running a Avado Node i7 device.  Setup and links to videos.  The Av
  - Run a Validator for Polkadot
  - Run your own Node
  - Smart Mining
- - Rent Your Own (RYO) Cloud
+ - Run Your Own (RYO) Cloud
  - Polkadot Chain "out of the box"
  - Staking
 
@@ -16,6 +16,10 @@ All notes on running a Avado Node i7 device.  Setup and links to videos.  The Av
 Revenue generation, lending out your bandwidth and storage, being a relayer, etc.
 - Mysterium VPN
 - Tornado Cash
+
+# RYO Cloud
+
+
 
 
 
@@ -67,5 +71,15 @@ Research URLs
 - [Ultrasound Money](https://ultrasound.money/), Ethereum Analytic
 - [Performing Bitcoin <> Monero Atomic Swaps](https://sethforprivacy.com/guides/bitcoin-monero-atomic-swaps/)
 - [Ethereum Gas Charts](https://ethereumprice.org/gas/)
+
+
+
+
+phemex, okex, PrimeXBT, kucoin, ftx- (requires level 1 only and thats easy to pass) , Huobi only requires kyc for futures and margin . You can deposit USD directly to kucoin btw . Yes you need a VPN for all fo these except kucoin but honestly I use a VPN for most everything anyhow because I work in tech
+
+Ethereum is just like a metropolis, most projects are built on it since the early days of blockchain. So, you have to pay a high 'toll fee’ when you are using their highway. Try look into alternative network like BSC, Polygon, Dot which are way more cheaper on gas fee.
+
+
+The SEC maybe out to try and bankrupt select companies to overtake them..... like XRP that had a bid in to be the new Quantum crypto of the United States.
 
 ## END OF LINE
