@@ -2,7 +2,17 @@
 [Thing 0](https://ava.do/avado-i7)
 All notes on running a Avado Node i7 device.  Setup and links to videos.  The Avado is the metal
  and not an other could 3rd party, This is run on Starlink as the internet service provider (ISP). 
- The idea is to run blockchain nodes Substrate (Kusama/Polkadot), Cardano ADA, 
+ The idea is to run blockchain nodes Substrate (Kusama/Polkadot), Cardano ADA, and ETH.
+ 
+ # What can we do with thing 0
+ - Run a Validator for Polkadot
+ - Run your own Node
+ - Smart Mining
+ - Rent Your Own (RYO) Cloud
+ - Polkadot Chain "out of the box"
+ - Staking
+
+
 
 ## Explain Crypto Staking Like I'm 5
 
