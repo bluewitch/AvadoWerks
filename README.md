@@ -12,6 +12,11 @@ All notes on running a Avado Node i7 device.  Setup and links to videos.  The Av
  - Polkadot Chain "out of the box"
  - Staking
 
+# Smart Mining
+Revenue generation, lending out your bandwidth and storage, being a relayer, etc.
+- Mysterium VPN
+- Tornado Cash
+
 
 
 ## Explain Crypto Staking Like I'm 5
@@ -39,6 +44,11 @@ More technically speaking when he discovers a winning ticket he uses his computi
 ## Wallets for Crypto
 Most wallets have the core universal crypto mechinisms, but some
 are customized for mobile, exchange mechinisms, etc.
+
+The Avado has its own Wallets for BTC, ETH, etc.  But others 
+like metamask can be used, just be mind for they are hot wallets
+and should be used for intermitiary travel to wallet destinations
+
 - [Meta Mask](https://metamask.io/), All things being equal is a good starting point, is a hot wallet and funds are online
 - []()
 - []()
