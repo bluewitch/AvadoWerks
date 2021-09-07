@@ -54,12 +54,14 @@ like metamask can be used, just be mind for they are hot wallets
 and should be used for intermitiary travel to wallet destinations
 
 - [Meta Mask](https://metamask.io/), All things being equal is a good starting point, is a hot wallet and funds are online
-- []()
-- []()
-- []()
-- []()
-- []()
-- 
+
+## Mobile Specific Crypto Wallet
+- [Samourai Mobile Wallet](https://samouraiwallet.com/), Most security features; Mobile only
+- [Coinomi](https://www.coinomi.com/en/)
+- [Exodus](https://www.exodus.com)
+- [Atomic Wallet](https://atomicwallet.io)
+- [Trust Wallet](https://trustwallet.com)
+
 
 
 ## Possible Kusama/Polkadot Blockchains, Nodes, Validators, etc.
@@ -74,7 +76,7 @@ Research URLs
 
 
 
-
+## Notes:
 phemex, okex, PrimeXBT, kucoin, ftx- (requires level 1 only and thats easy to pass) , Huobi only requires kyc for futures and margin . You can deposit USD directly to kucoin btw . Yes you need a VPN for all fo these except kucoin but honestly I use a VPN for most everything anyhow because I work in tech
 
 Ethereum is just like a metropolis, most projects are built on it since the early days of blockchain. So, you have to pay a high 'toll fee’ when you are using their highway. Try look into alternative network like BSC, Polygon, Dot which are way more cheaper on gas fee.
