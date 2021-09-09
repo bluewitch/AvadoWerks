@@ -50,7 +50,7 @@ More technically speaking when he discovers a winning ticket he uses his computi
 
 
 ## Possible Kusama/Polkadot Blockchains, Nodes, Validators, etc.
-
+- [KYVE Network](https://github.com/KYVENetwork/kyve)
 - [Kintsugi]()
 
 Research URLs
