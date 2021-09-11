@@ -1,5 +1,5 @@
-## Legion Blade
-# Lenovo Unit
+# Legion Blade
+### Lenovo Unit
 - Processor : **AMD Ryzen™ 7 5800H Processor (3.20 GHz, up to 4.40 GHz Max Boost, 8 Cores, 16 Threads, 16 MB Cache)**
 - Operating System : **Windows 10 Pro 64**
 - Operating System Language : **Windows 10 Pro 64 English**
