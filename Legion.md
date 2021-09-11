@@ -1,21 +1,20 @@
 ## Legion Blade
-Processor : AMD Ryzen™ 7 5800H Processor (3.20 GHz, up to 4.40 GHz Max Boost, 8 Cores, 16 Threads, 16 MB Cache)
-Operating System : Windows 10 Pro 64
-Operating System Language : Windows 10 Pro 64 English
-Microsoft Productivity Software : None
-Memory : 32 GB DDR4 3200MHz (2 x 16 GB)
-First Solid State Drive : 1 TB PCIe SSD
-Second Solid State Drive : 1 TB PCIe SSD
-Display : 16.0" WQXGA (2560 x 1600) IPS, anti-glare with Dolby Vision™, HDR 400, 500 nits, 165Hz
-Graphic Card : NVIDIA® GeForce® RTX™ 3070 8GB
-Camera : 720p HD
-Microphone : Array Microphone
-Colour : Storm Grey
-Keyboard : Backlit - White - English
-Wireless : 802.11AX (2 x 2) & Bluetooth® 5.1
-Surface Treatment : Anodizing
-Palmrest : PC/ABS
-Battery : 4 Cell Li-Polymer 80Wh
-Power Cord : 300W AC
-Language Pack : Publication-English/French
-Warranty : 1 Year Depot or Carry-in
+- Processor : **AMD Ryzen™ 7 5800H Processor (3.20 GHz, up to 4.40 GHz Max Boost, 8 Cores, 16 Threads, 16 MB Cache)**
+- Operating System : **Windows 10 Pro 64**
+- Operating System Language : **Windows 10 Pro 64 English**
+- Memory : **32 GB DDR4 3200MHz (2 x 16 GB)**
+- First Solid State Drive : **1 TB PCIe SSD**
+- Second Solid State Drive : **1 TB PCIe SSD**
+- Display : **16.0" WQXGA (2560 x 1600) IPS, anti-glare with Dolby Vision™, HDR 400, 500 nits, 165Hz**
+- Graphic Card : **NVIDIA® GeForce® RTX™ 3070 8GB**
+- Camera : **720p HD**
+- Microphone : **Array Microphone**
+- Colour : **Storm Grey**
+- Keyboard : **Backlit - White - English**
+- Wireless : **802.11AX (2 x 2) & Bluetooth® 5.1**
+- Surface Treatment : **Anodizing**
+- Palmrest : **PC/ABS**
+- Battery : **4 Cell Li-Polymer 80Wh**
+- Power Cord : **300W AC**
+- Language Pack : **Publication-English/French**
+- Warranty : **1 Year Depot or Carry-in**
