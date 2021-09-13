@@ -1,8 +1,12 @@
-# Base Station
+# Base Station (the vault)
 ## A physical firewall for the Avado (and other units)
-- Protectli Vault 4 Port, Firewall Micro Appliance/Mini PC 
-- Intel Quad Core, AES-NI, 8GB RAM, 120GB mSATA SSD
+- THE VAULT: Secure your network with a compact, fanless & silent firewall.
+- CPU: Intel Quad Core Celeron J3160, 64 bit, up to 2.2GHz, AES-NI hardware support
+- PORTS: 4x Intel Gigabit Ethernet ports, 2x USB 3.0, 1x RJ-45 COM, 2x HDMI
+- COMPONENTS: 8GB DDR3L RAM, 120GB mSATA SSD. coreboot BIOS optional, must be installed by user.
+- COMPATIBILITY: No OS pre-installed. All hardware tested with pfSense, untangle, OPNsense and other popular open-source software solutions.
 - [pfSense](https://github.com/pfsense/pfsense) is a firewall/router computer software distribution based on FreeBSD, installed on a physical computer or virtual machine to make a dedicated firewall/router for a network.
+
 
 
 # Legion Blade
