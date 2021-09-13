@@ -69,4 +69,7 @@ Ethereum is just like a metropolis, most projects are built on it since the earl
 
 The SEC maybe out to try and bankrupt select companies to overtake them..... like XRP that had a bid in to be the new Quantum crypto of the United States.
 
+# Other Hardware Nodes
+- [Helium, HNT ](https://bob-catminer.com/)
+
 ## END OF LINE
