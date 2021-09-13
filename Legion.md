@@ -2,7 +2,7 @@
 ## A physical firewall for the Avado (and other units)
 - Protectli Vault 4 Port, Firewall Micro Appliance/Mini PC 
 - Intel Quad Core, AES-NI, 8GB RAM, 120GB mSATA SSD
-- pfSense is a firewall/router computer software distribution based on FreeBSD. The open source pfSense Community Edition and pfSense Plus is installed on a physical computer or   virtual machine to make a dedicated firewall/router for a network.
+- [pfSense](https://github.com/pfsense/pfsense) is a firewall/router computer software distribution based on FreeBSD, installed on a physical computer or virtual machine to make a dedicated firewall/router for a network.
 
 
 # Legion Blade
