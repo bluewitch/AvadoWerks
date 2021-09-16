@@ -52,6 +52,7 @@ More technically speaking when he discovers a winning ticket he uses his computi
 ## Possible Kusama/Polkadot Blockchains, Nodes, Validators, etc.
 - [KYVE Network](https://github.com/KYVENetwork/kyve)
 - [Kintsugi]()
+- [Calamari Network](https://calamari.network/), Privacy Kusama Crowd Auction Winner
 
 Research URLs
 - [Ceres Token](https://cerestoken.io/), On Polkadot Protocol
