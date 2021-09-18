@@ -1,5 +1,5 @@
 # Base Station (the Vault)
-Our dedicated router, to channel by default VPN all traffic
+Our dedicated firewall router, to channel by default VPN all traffic
 
 ## A physical firewall for the Avado (and other units)
 - THE VAULT: Secure your network with a compact, fanless & silent firewall.
@@ -13,7 +13,8 @@ Our dedicated router, to channel by default VPN all traffic
 
 
 # Legion Blade
-### Lenovo Unit
+Primary Game and Development Device
+### Lenovo Unit Stats
 - Processor : **AMD Ryzen™ 7 5800H Processor (3.20 GHz, up to 4.40 GHz Max Boost, 8 Cores, 16 Threads, 16 MB Cache)**
 - Operating System : **Windows 10 Pro 64**
 - Operating System Language : **Windows 10 Pro 64 English**
