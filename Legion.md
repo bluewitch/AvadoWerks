@@ -1,5 +1,7 @@
 # Base Station (the Vault)
 Our dedicated firewall router, to channel by default VPN all traffic
+- using IP 10.42.42.1
+- todo obtain a switch (5 port)
 
 ## A physical firewall for the Avado (and other units)
 - THE VAULT: Secure your network with a compact, fanless & silent firewall.
