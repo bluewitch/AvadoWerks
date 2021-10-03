@@ -12,12 +12,12 @@ Built from Substrate, a programing environment to build Blockchains
 
 # Crowd Auctions (Polkadot/DOT)
 
-1. **50% DOT Pool** [Astar, SmartContracts](https://parachains.info/details/astar)
-2. **25% DOT Pool** [Manta Network, Privacy](https://parachains.info/details/manta_network/)
-3. **10% DOT Pool** [Bit.Country, NFT](https://parachains.info/details/bit_country)
-4. **5% DOT Pool** [Acala, DeFi](https://parachains.info/details/acala_network/)
-5. **5% DOT Pool** [Centrifuge, DeFi](https://parachains.info/details/centrifuge/)
-6. **5% DOT Pool** [Moonbeam, SmartContracts](https://parachains.info/details/moonbeam/)
+1. [Astar, SmartContracts](https://parachains.info/details/astar); **50% DOT Pool** 
+2. [Manta Network, Privacy](https://parachains.info/details/manta_network/); **25% DOT Pool**
+3. [Bit.Country, NFT](https://parachains.info/details/bit_country); **10% DOT Pool**
+4. [Acala, DeFi](https://parachains.info/details/acala_network/); **5% DOT Pool**
+5. [Centrifuge, DeFi](https://parachains.info/details/centrifuge/); **5% DOT Pool**
+6. [Moonbeam, SmartContracts](https://parachains.info/details/moonbeam/); **5% DOT Pool**
 ---
 7. [Composable Finance (Picasso), Oracle, Defi](https://www.composable.finance/)
 
