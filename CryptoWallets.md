@@ -1,4 +1,9 @@
 # CryptoWallets.md
+---
+## Hardware Ledger
+This device is the, off line, airgapped, cold storage...aka the **War Chest**
+Order a Ledger as soon as possible, as it gives you more security by default.
+
 
 ---
 - ## [Polkadot.js.org Wallet](https://polkadot.js.org/docs/)
