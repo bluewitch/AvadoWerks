@@ -1,4 +1,9 @@
 # CryptoWallets.md
+
+---
+- ## [Fearless Wallet](https://fearlesswallet.io/)
+
+---
 ## Wallets for Crypto
 
 Most wallets have the core universal crypto mechinisms, but some
