@@ -1,4 +1,4 @@
-# Polkadot
+# Polkadot / Kusama
 Built from Substrate, a programing environment to build Blockchains
 
 
