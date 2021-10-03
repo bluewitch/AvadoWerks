@@ -2,7 +2,10 @@
 
 ---
 - ## [Polkadot.js.org Wallet](https://polkadot.js.org/docs/)
+The original **OG**, ipso facto, default crypto wallet for Kusama and Polkadot.
+
 - ## [Fearless Wallet](https://fearlesswallet.io/)
+A more beautiful crypto wallet for Kusama and Polkadot.
 
 ---
 ## Wallets for Crypto
