@@ -18,7 +18,6 @@ Built from Substrate, a programing environment to build Blockchains
 - 4 (5% DOT Pool)[Acala, DeFi](https://parachains.info/details/acala_network/)
 - 5 (5% DOT Pool)[Centrifuge, DeFi](https://parachains.info/details/centrifuge/)
 - 6 (5% DOT Pool)[Moonbeam, SmartContracts](https://parachains.info/details/moonbeam/)
-
 ---
 - 7 [Composable Finance (Picasso), Oracle, Defi](https://www.composable.finance/)
 
@@ -40,3 +39,7 @@ Centrifuge Chain (5% DOT Pool) is the gateway for real-world assets to the Block
 
 ## Moonbeam, SmartContracts
 Moonbeam (5% DOT Pool) makes it easy to build decentralized applications on Polkadot — which means your DApps can integrate with other blockchains, including Bitcoin and Ethereum. With Moonbeam smart contracts and compatibility with the Ethereum developer toolset, you can quickly build applications that work with users and assets on remote chains, either through native Polkadot compatibility or bridge-based integrations.
+
+---
+## Composable, XCM
+Composable’s parachain is going to be able to run multiple bytecodes together in the same place, in order to run smart contracts together in a manner that allows them to communicate and collaborate. As a result, protocols using different smart contract languages (i.e. those on different chains, especially) will be able to unite via our parachain, facilitating cross-chain asset swaps and other functionalities.
