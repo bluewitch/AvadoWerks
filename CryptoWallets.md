@@ -1,6 +1,7 @@
 # CryptoWallets.md
 
 ---
+- ## [Polkadot.js.org Wallet](https://polkadot.js.org/docs/)
 - ## [Fearless Wallet](https://fearlesswallet.io/)
 
 ---
