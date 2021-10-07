@@ -1,5 +1,8 @@
 ### filename: XCM_Overview.md
 
+# tl;dr
+XCM is the format used to communicate between sovereign entities. It isn't a protocol, (from my understanding) XCM is to XCMP what HTML is to HTTP. XCM includes a lot of possible instructions, with receivers may only want to understand some subset. Unlike protocols native to different Blockchains XCM is abstract and well versioned, allowing it to be used for communication without knowing the specifics of the receiver. There are some examples of common uses of XCM: sending an asset within a Blockchain (from an address that you control on that Blockchain, to another address on that same Blockchain), teleporting an asset from one chain to another (burning it on the sending chain and minting it on the other), or putting an asset into reserve and creating a derivative on a different chain.
+
 # XCM Cross-Consensus Messaging
 - ### Not just cross-chain
 - ### It's a format, not a protocol
