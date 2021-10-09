@@ -21,11 +21,11 @@ Built from Substrate, a programing environment to build Blockchains
 4. [Phala, Privacy](https://parachains.info/details/phala_network); **10% (100) DOT Pool**
   - [Phala Network Github](https://github.com/Phala-Network/phala-blockchain)
 ---
-5. [Manta Network, Privacy](https://parachains.info/details/manta_network/); **25% DOT Pool**
+5. [Manta Network, Privacy](https://parachains.info/details/manta_network/)
   - [Manta Github](https://github.com/Manta-Network/Manta)
-6. [Bit.Country, NFT](https://parachains.info/details/bit_country); **10% DOT Pool**
+6. [Bit.Country, NFT](https://parachains.info/details/bit_country)
   - [Bit.Country Github](https://github.com/bit-country/Metaverse-Network)
-7. [Centrifuge, DeFi](https://parachains.info/details/centrifuge/); **5% DOT Pool**
+7. [Centrifuge, DeFi](https://parachains.info/details/centrifuge/)
   - [Centrifuge Github](https://github.com/centrifuge/centrifuge-chain/)
 ---
 8. [Composable Finance (Picasso), Oracle, Defi](https://www.composable.finance/)
