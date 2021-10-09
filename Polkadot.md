@@ -31,7 +31,7 @@ Built from Substrate, a programing environment to build Blockchains
 8. [Composable Finance (Picasso), Oracle, Defi](https://www.composable.finance/)
 
 ---
-## Moonbeam, SmartContracts
+## Moonbeam, SmartContracts (30% DOT Pool 300) 
 Moonbeam (30% DOT Pool 300) makes it easy to build decentralized applications on Polkadot — which means your DApps can integrate with other blockchains, including Bitcoin and Ethereum. With Moonbeam smart contracts and compatibility with the Ethereum developer toolset, you can quickly build applications that work with users and assets on remote chains, either through native Polkadot compatibility or bridge-based integrations.
 
 
@@ -48,15 +48,16 @@ This blockchain is a trustless computation platform that enables massive cloud p
 ---
 
 ## Manta Network, Privacy 
-Manta Network (25% DOT Pool) is the plug-and-play privacy-preservation protocol built to service the entire DeFi stack. Built on Substrate to leverage interoperability and zkSNARKs to leverage scalable privacy, Manta Network offers a suite of products and services that enable privacy for blockchain projects. As part of its own suite of products, Manta Network offers private payment and a private decentralized exchange, MantaSwap. Manta’s founding team comprises many US cryptocurrency veterans, professors, and scholars whose experience include Harvard, MIT, and Algorand. 
+Manta Network is the plug-and-play privacy-preservation protocol built to service the entire DeFi stack. Built on Substrate to leverage interoperability and zkSNARKs to leverage scalable privacy, Manta Network offers a suite of products and services that enable privacy for blockchain projects. As part of its own suite of products, Manta Network offers private payment and a private decentralized exchange, MantaSwap. Manta’s founding team comprises many US cryptocurrency veterans, professors, and scholars whose experience include Harvard, MIT, and Algorand. 
 
 ## Bit.Country, NFT
-Bit.Country (10% DOT Pool) enables everyone to start their own metaverse for their people with the 3D world, NFTs, play-to-earn & build communities to earn, and takes community engagement to a new dimension on web3.0.  A network with an open protocol for managing & incentivizing communities using gamification. Inspired by the decentralization paradigm. Its vision is to allow anyone (especially new users to the blockchain) to create their communities, economies as Bit Country on the blockchain network.  Anyone can start their own metaverse for their fans, followers, members, and fambam! Truly own your community and bring in the power of tokenized economy! Create a virtual world with NFTs for your Telegram group, Wechat group, Twitter followers, Facebook group.
+Bit.Country enables everyone to start their own metaverse for their people with the 3D world, NFTs, play-to-earn & build communities to earn, and takes community engagement to a new dimension on web3.0.  A network with an open protocol for managing & incentivizing communities using gamification. Inspired by the decentralization paradigm. Its vision is to allow anyone (especially new users to the blockchain) to create their communities, economies as Bit Country on the blockchain network.  Anyone can start their own metaverse for their fans, followers, members, and fambam! Truly own your community and bring in the power of tokenized economy! Create a virtual world with NFTs for your Telegram group, Wechat group, Twitter followers, Facebook group.
 
 ## Centrifuge, DeFi
-Centrifuge Chain (5% DOT Pool) is the gateway for real-world assets to the Blockchain Multiverse. We built Centrifuge Chain on Parity Substrate with an initial bridge to Ethereum. This allows us to move faster and use a consistent approach for certain features. We envision a larger ecosystem of many, connected blockchains- where Dapps on Ethereum could use data from other chains, value could move freely, and Centrifuge Chain can enable off-chain assets to access financing through DeFi.
+Centrifuge Chain is the gateway for real-world assets to the Blockchain Multiverse. We built Centrifuge Chain on Parity Substrate with an initial bridge to Ethereum. This allows us to move faster and use a consistent approach for certain features. We envision a larger ecosystem of many, connected blockchains- where Dapps on Ethereum could use data from other chains, value could move freely, and Centrifuge Chain can enable off-chain assets to access financing through DeFi.
 
 
 ---
+**Our own blockchain**
 ## Composable, XCM
 Composable’s parachain is going to be able to run multiple bytecodes together in the same place, in order to run smart contracts together in a manner that allows them to communicate and collaborate. As a result, protocols using different smart contract languages (i.e. those on different chains, especially) will be able to unite via our parachain, facilitating cross-chain asset swaps and other functionalities.
