@@ -59,6 +59,8 @@ Centrifuge Chain is the gateway for real-world assets to the Blockchain Multiver
 
 
 ---
-**Our own blockchain**
+**A patrons blockchain**
 ## Composable, XCM
 Composable’s parachain is going to be able to run multiple bytecodes together in the same place, in order to run smart contracts together in a manner that allows them to communicate and collaborate. As a result, protocols using different smart contract languages (i.e. those on different chains, especially) will be able to unite via our parachain, facilitating cross-chain asset swaps and other functionalities.
+
+## Picaso
