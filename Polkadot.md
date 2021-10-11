@@ -35,7 +35,7 @@ Built from Substrate, a programing environment to build Blockchains
 Moonbeam (30% DOT Pool 300) makes it easy to build decentralized applications on Polkadot — which means your DApps can integrate with other blockchains, including Bitcoin and Ethereum. With Moonbeam smart contracts and compatibility with the Ethereum developer toolset, you can quickly build applications that work with users and assets on remote chains, either through native Polkadot compatibility or bridge-based integrations.
 
 
-## Astar, SmartContracts (30% DOT Pool 300)
+## [Astar](https://astar.network/), SmartContracts (30% DOT Pool 300)
 Astar (30% DOT Pool 300) (previously Plasm) is a Substrate Runtime Module Library which allows developers to add Plasma functions to their Substrate chain. By adding a Astar (previously Plasm) Substrate Runtime Module Library, you can get scalable blockchains within a few minutes. Some people might not know Substrate Runtime Module Library. Basically speaking, Substrate consists of 2 components, Substrate Core and Substrate Runtime Module Library aka SRML. We can customize Substrate Core with SRML and make an original Substrate chain. Other people might not know Plasma. Plasma is a layer2 scaling solution which makes it possible for scalable computation by structuring economic incentives to operate the blockchain autonomously without the operator’s management. Ideally, it brings infinite scalability into your blockchain.
 
 ## Acala, DeFi (30% DOT Pool 300)
