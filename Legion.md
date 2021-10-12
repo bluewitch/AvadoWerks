@@ -1,4 +1,13 @@
-# Base Station (the Vault)
+# Base Router (the Vault)
+- THE VAULT: Secure your network with a compact, fanless & silent firewall.
+- CPU: **Intel Quad Core Celeron J3160 64 bit**, **2.2GHz**, **AES-NI** hardware support
+- PORTS: **4x Intel Gigabit Ethernet ports**, **2x USB 3.0**, **1x RJ-45 COM**, **2x HDMI**
+- COMPONENTS: **8GB DDR3L RAM**, **120GB mSATA SSD**. coreboot BIOS optional, must be installed by user.
+- COMPATIBILITY: No OS pre-installed. All hardware tested with [pfSense](https://github.com/pfsense/pfsense), [untangle](https://github.com/untangle), [OPNsense](https://github.com/opnsense) and other popular open-source software solutions.
+- [pfSense](https://github.com/pfsense/pfsense) is a firewall/router computer software distribution based on FreeBSD, installed on a physical computer or virtual machine to make a dedicated firewall/router for a network.
+- [Monowall](https://m0n0.ch/wall/index.php), 
+
+
 Our dedicated firewall router, to channel by default VPN all traffic
 - using IP **10.42.42.1**
 - Primary DNS **1.1.1.1**
@@ -8,25 +17,18 @@ Our dedicated firewall router, to channel by default VPN all traffic
 - **todo** activate VPN
 - **todo** set up guest
 
-
-
-## A physical firewall for the Avado (and other units)
-- THE VAULT: Secure your network with a compact, fanless & silent firewall.
-- CPU: **Intel Quad Core Celeron J3160 64 bit**, **2.2GHz**, **AES-NI** hardware support
-- PORTS: **4x Intel Gigabit Ethernet ports**, **2x USB 3.0**, **1x RJ-45 COM**, **2x HDMI**
-- COMPONENTS: **8GB DDR3L RAM**, **120GB mSATA SSD**. coreboot BIOS optional, must be installed by user.
-- COMPATIBILITY: No OS pre-installed. All hardware tested with [pfSense](https://github.com/pfsense/pfsense), [untangle](https://github.com/untangle), [OPNsense](https://github.com/opnsense) and other popular open-source software solutions.
-- [pfSense](https://github.com/pfsense/pfsense) is a firewall/router computer software distribution based on FreeBSD, installed on a physical computer or virtual machine to make a dedicated firewall/router for a network.
-- [Monowall](https://m0n0.ch/wall/index.php), 
+---
 
 ## Easy Smart Switch
 - TL-SG105E
 - tp-link
 - 5 Port Gigabit
 
+---
 
 # Legion Blade
 Primary Game and Development Device
+
 ### Lenovo Unit Stats
 - Processor : **AMD Ryzen™ 7 5800H Processor (3.20 GHz, up to 4.40 GHz Max Boost, 8 Cores, 16 Threads, 16 MB Cache)**
 - Operating System : **Windows 10 Pro 64**
