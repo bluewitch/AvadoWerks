@@ -63,8 +63,25 @@ Centrifuge Chain is the gateway for real-world assets to the Blockchain Multiver
 ## Composable, XCM
 Composable’s parachain is going to be able to run multiple bytecodes together in the same place, in order to run smart contracts together in a manner that allows them to communicate and collaborate. As a result, protocols using different smart contract languages (i.e. those on different chains, especially) will be able to unite via our parachain, facilitating cross-chain asset swaps and other functionalities.
 
-
+## Picaso
 ---
 [Validator Selector](https://github.com/James-Sangalli/dot-validator-selector)
 
-## Picaso
+1. address: 13K6QTYBPMUFTbhZzqToKcfCiWbt4wDPHr3rUPyUessiPR61 commission: 3% name: Genesis Lab
+2. address: 1MrurrNb4VTrRJUXT6fGxHFdmwwscqHZUFkMistMsP8k5Nk commission: 3% name: 🛡 DWELLIR DOT 🛡
+3. address: 12rgiL4r56kPE4PuYmz8snR21isfbrcp5Vbf8VdJe2AWDuus commission: 3% name: il4r141
+4. address: 14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu commission: 3% name: P2P.ORG
+5. address: 14N5GT7YTaDBSsLpfxxtCxNdYfgDofGj5wQSfqC1URKHdT8C commission: 10% name: RockX_Polkadot3
+6. address: 1341kcAXqyA5ZJHBdPoLeHsDtmqLBZ2qm5Hu7e9tDR9Jv5RM commission: 5% name: XiaoGong
+7. address: 12dvyqCFhVubTDqMdojyjhkxVUMaYVXWLv8uZW1NomUunPmN commission: 3% name: Nodeasy
+8. address: 1653t723BHhC2krGCFKUUNDQb5sUafy5pZvKVwnwo1oMAMi7 commission: 10% name: Staked
+9. address: 14ShUZUYUR35RBZW6uVVt1zXDxmSQddkeDdXf1JkMA6P721N commission: 3% name: Wei
+10. address: 1gpCRov55rqmNaoEVRNAUCCYVzSGghitLNabng8UHVGwv1g commission: 5% name: QINWEN.168Node
+11. address: 1WG3jyNqniQMRZGQUc7QD2kVLT8hkRPGMSqAb5XYQM1UDxN commission: 10% name: DokiaCapital
+12. address: 12713bbq45c66CN9AD7yusSXWE1kY91DcMpjVcB2rXqZKy2w commission: 5% name: 🔒stateless_money🔒
+13. address: 14BB4ZbvPadELb1jBhbJq6GbECvBfkxFmohybYexzpE4KMq2 commission: 5% name: DICO
+14. address: 16S9PjqUFWjQweYymtUQ6GHjjJ6AXX1AQePWJ8gFzrWWcmy2 commission: 3% name: STAKE-R-US-DOT
+15. address: 148HzdSuFsDrNKnAHFs81BJzZxmKgwEC6Pmpw2QJnTy3Hv3R commission: 5% name: CoinFund/Grassfed
+16. address: 16SpacegeUTft9v3ts27CEC3tJaxgvE4uZeCctThFH3Vb24p commission: 3% name: Staker Space
+
+---
