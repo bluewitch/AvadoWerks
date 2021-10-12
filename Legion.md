@@ -19,6 +19,10 @@ Our dedicated firewall router, to channel by default VPN all traffic
 - [pfSense](https://github.com/pfsense/pfsense) is a firewall/router computer software distribution based on FreeBSD, installed on a physical computer or virtual machine to make a dedicated firewall/router for a network.
 - [Monowall](https://m0n0.ch/wall/index.php), 
 
+## Easy Smart Switch
+- TL-SG105E
+- tp-link
+- 5 Port Gigabit
 
 
 # Legion Blade
