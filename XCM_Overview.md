@@ -30,7 +30,8 @@ Given that BTC and ETH have crypto-treasures (i.e high value and most sought-aft
 
 ---
 # XCM Cross-Consensus Messaging
- XCM is the “cross-consensus” messaging format, rather than just “cross-chain”
+ XCM is the “cross-consensus” messaging format, rather than just “cross-chain”.  The XCM format is designed for communicating the kinds of ideas sent not just between chains, but also smart-contracts and pallets, and over bridges and sharded enclaves like Shared Protected Runtime Execution Enclaves (SPREE) sometimes referred to as "trust wormholes," [Polkadot’s Spree](https://wiki.polkadot.network/docs/learn-spree). 
+ 
 - ### Not just cross-chain
 - ### It's a format, not a protocol
 
