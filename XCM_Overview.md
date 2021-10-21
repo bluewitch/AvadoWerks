@@ -174,4 +174,24 @@ v1 in general use over the wire; chains < 0.9.10 no longer compatible
 
 ---
 
+# Notes XCM
 
+- Balance Transfers 
+- shawntabrizi.com/xcm-workshop/#/
+
+# XCM Executor
+- Barrier
+
+# XCM Config
+
+- Simple Transfer
+- Reserve Transfer
+- Teleport Transfer
+
+# Why is XCM so powerful?
+
+Have you withdrawn USDT or USDC from an exchange before? If you have, then you'll probably notice that there's an option to chose networks like ERC-20, TRC-20, ALGO, MATIC, OMNI, etc... Those are blockchains, or ledgers, that says Person A transferred X token to Person B. Think of it as cars (or tokens) using different highways (or blockchains) to travel from Point A to Point B (one address to another). ERC-20 is the Ethereum blockchain, TRC-20 is Tron's blockchain, etc... and right now, if you send an ERC-20 token to a TRC-20 address, there is no guarantee that the funds sent are recoverable.
+
+IF (and this is a huge IF) Ethereum, Tron, Algo, MATIC secures a parachain on Polkadot, it's not impossible for us to send tokens without caring about which blockchain we're using because any blockchain on Polkadot's network can communicate with each other using DOT as the base layer blockchain. It's also possible to do cross-chain swaps which are not limited by blockchains being siloed in their own highway. So imagine having a Polkadot DEX that can list way more tokens than Uniswap, Pancakeswap, Sushiswap combined WITHOUT needing to use bridges across blockchains.
+
+I'm super hyped for this as it brings cryptocurrency one step closer to being idiot-proof and usable for the general population 
